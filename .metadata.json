@@ -1,0 +1,18 @@
+[
+  {
+    "package": "tanmisc"
+  },
+  {
+    "package": "joker"
+  },
+  {
+    "package": "ffscrapr",
+    "oncran": true
+  },
+  {
+    "package": "fpscrapr"
+  },
+  {
+    "package": "ffexpectedpoints"
+  }
+]
