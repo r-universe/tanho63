@@ -19,13 +19,23 @@
 	shallow = true
 	branch = dev
 	registered = true
-[submodule "fpscrapr"]
-	path = fpscrapr
-	url = https://github.com/dynastyprocess/fpscrapr
+[submodule "ffpros"]
+	path = ffpros
+	url = https://github.com/ffverse/ffpros
 	shallow = true
 	registered = true
 [submodule "ffexpectedpoints"]
 	path = ffexpectedpoints
-	url = https://github.com/dynastyprocess/ffexpectedpoints
+	url = https://github.com/ffverse/ffexpectedpoints
+	shallow = true
+	registered = true
+[submodule "ffsimulator"]
+	path = ffsimulator
+	url = https://github.com/ffverse/ffsimulator
+	shallow = true
+	registered = true
+[submodule "usetheprocess"]
+	path = usetheprocess
+	url = https://github.com/dynastyprocess/usetheprocess
 	shallow = true
 	registered = true

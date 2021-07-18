@@ -10,9 +10,15 @@
     "oncran": true
   },
   {
-    "package": "fpscrapr"
+    "package": "ffpros"
   },
   {
     "package": "ffexpectedpoints"
+  },
+  {
+    "package": "ffsimulator"
+  },
+  {
+    "package": "usetheprocess"
   }
 ]
