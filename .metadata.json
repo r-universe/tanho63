@@ -16,7 +16,8 @@
     "package": "ffexpectedpoints"
   },
   {
-    "package": "ffsimulator"
+    "package": "ffsimulator",
+    "oncran": false
   },
   {
     "package": "usetheprocess"
