@@ -7,7 +7,7 @@
   },
   {
     "package": "ffscrapr",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "ffpros"
@@ -17,7 +17,7 @@
   },
   {
     "package": "ffsimulator",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "usetheprocess"
