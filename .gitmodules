@@ -15,9 +15,8 @@
 	registered = true
 [submodule "ffscrapr"]
 	path = ffscrapr
-	url = https://github.com/dynastyprocess/ffscrapr
+	url = https://github.com/ffverse/ffscrapr
 	shallow = true
-	branch = dev
 	registered = true
 [submodule "ffpros"]
 	path = ffpros

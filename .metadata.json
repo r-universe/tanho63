@@ -7,7 +7,7 @@
   },
   {
     "package": "ffscrapr",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "ffpros"
