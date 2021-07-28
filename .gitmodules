@@ -13,28 +13,3 @@
 	url = https://github.com/tanho63/joker
 	shallow = true
 	registered = true
-[submodule "ffscrapr"]
-	path = ffscrapr
-	url = https://github.com/ffverse/ffscrapr
-	shallow = true
-	registered = true
-[submodule "ffpros"]
-	path = ffpros
-	url = https://github.com/ffverse/ffpros
-	shallow = true
-	registered = true
-[submodule "ffexpectedpoints"]
-	path = ffexpectedpoints
-	url = https://github.com/ffverse/ffexpectedpoints
-	shallow = true
-	registered = true
-[submodule "ffsimulator"]
-	path = ffsimulator
-	url = https://github.com/ffverse/ffsimulator
-	shallow = true
-	registered = true
-[submodule "usetheprocess"]
-	path = usetheprocess
-	url = https://github.com/dynastyprocess/usetheprocess
-	shallow = true
-	registered = true

@@ -4,22 +4,5 @@
   },
   {
     "package": "joker"
-  },
-  {
-    "package": "ffscrapr",
-    "oncran": true
-  },
-  {
-    "package": "ffpros"
-  },
-  {
-    "package": "ffexpectedpoints"
-  },
-  {
-    "package": "ffsimulator",
-    "oncran": true
-  },
-  {
-    "package": "usetheprocess"
   }
 ]
