@@ -13,3 +13,8 @@
 	url = https://github.com/tanho63/joker
 	shallow = true
 	registered = true
+[submodule "fivestars"]
+	path = fivestars
+	url = https://github.com/tanho63/fivestars
+	shallow = true
+	registered = true
