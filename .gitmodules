@@ -18,3 +18,8 @@
 	url = https://github.com/tanho63/fivestars
 	shallow = true
 	registered = true
+[submodule "aoc.elf"]
+	path = aoc.elf
+	url = https://github.com/tanho63/aoc.elf
+	shallow = true
+	registered = true
