@@ -10,5 +10,15 @@
   },
   {
     "package": "aoc.elf"
+  },
+  {
+    "package": "mobileCharts"
+  },
+  {
+    "package": "shinyMobile",
+    "oncran": false
+  },
+  {
+    "package": "glouton"
   }
 ]
