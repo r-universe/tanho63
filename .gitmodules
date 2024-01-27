@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/tanho63/universe
+	url = https://github.com/tanho63/tanho63.r-universe.dev
 	branch = HEAD
 [submodule "aoc.elf"]
 	path = aoc.elf
